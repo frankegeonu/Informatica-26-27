@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="d35bf093-b68c-4d5b-9aac-a2fac7378b54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/progetto-plates/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/db-data/load.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/db-init/01_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/db-init/02_seed.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/docker-compose.override.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/docs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/conf/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/css/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/public/js/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/src/Controller/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/src/Model/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/src/Util/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progetto-plates/www/templates/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +37,123 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;frankegeonu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/frankegeonu/Informatica-26-27.git&quot;,
+    &quot;accountId&quot;: &quot;703abb74-6565-4f3d-bb07-4d65d92324fc&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000008064407658" />
+      <entry key="MS500" value="1.0957887475129864" />
+      <entry key="S2" value="1.556325060292417" />
+      <entry key="S5" value="1.7909179817740437" />
+      <entry key="S10" value="1.8893518370731588" />
+      <entry key="S30" value="2.1709582540499133" />
+      <entry key="S60" value="4.523340217815262" />
+      <entry key="M2" value="12.34800904827847" />
+      <entry key="M5" value="32.3986691997833" />
+      <entry key="M10" value="48.76599301413156" />
+      <entry key="M15" value="56.48652119978503" />
+      <entry key="M30" value="65.77793958224021" />
+      <entry key="H1" value="71.12198557525441" />
+      <entry key="H2" value="73.99072764220615" />
+      <entry key="H4" value="75.47733646958201" />
+      <entry key="D1" value="76.74367878485467" />
+      <entry key="W1" value="76.9633198517226" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="7.267866278432104E-83" />
+      <entry key="S5" value="1.3949632656750299E-33" />
+      <entry key="S10" value="3.73492070287313E-17" />
+      <entry key="S30" value="3.342672244073152E-6" />
+      <entry key="S60" value="0.0018282976355268746" />
+      <entry key="M2" value="0.04275859721186928" />
+      <entry key="M5" value="0.28340622125000287" />
+      <entry key="M10" value="0.5323591092955985" />
+      <entry key="M15" value="0.6568554281040746" />
+      <entry key="M30" value="0.8104661794942934" />
+      <entry key="H1" value="0.900258951354716" />
+      <entry key="H2" value="0.948819767582188" />
+      <entry key="H4" value="0.9740737998643562" />
+      <entry key="D1" value="0.9956315349020824" />
+      <entry key="W1" value="0.9993747620111475" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8179020825975789" />
+      <entry key="MS500" value="0.9905303395229359" />
+      <entry key="S2" value="1.4059548880088146" />
+      <entry key="S5" value="1.7000623180118832" />
+      <entry key="S10" value="1.8370994940136702" />
+      <entry key="S30" value="2.151771731426964" />
+      <entry key="S60" value="4.514922011100187" />
+      <entry key="M2" value="12.384015911624772" />
+      <entry key="M5" value="32.67639306663755" />
+      <entry key="M10" value="49.29402769002173" />
+      <entry key="M15" value="57.140002534609984" />
+      <entry key="M30" value="66.58641642596876" />
+      <entry key="H1" value="72.02116162164025" />
+      <entry key="H2" value="74.93898210974864" />
+      <entry key="H4" value="76.45112141985209" />
+      <entry key="D1" value="77.73926129623904" />
+      <entry key="W1" value="77.96268758849925" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LSKvaHb3SFeRj9esbSgWDrO1pN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/71143667/PhpstormProjects/Informatica-26-27",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\71143667\PhpstormProjects\Informatica-26-27" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PS-262.11879.104" />
+        <option value="bundled-php-predefined-a98d8de5180a-9522f28f0b20-com.jetbrains.php.sharedIndexes-PS-262.11879.104" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d35bf093-b68c-4d5b-9aac-a2fac7378b54" name="Changes" comment="" />
+      <created>1793442264717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793442264717</updated>
+      <workItem from="1793442268521" duration="1764000" />
+      <workItem from="1793698180171" duration="1014000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
